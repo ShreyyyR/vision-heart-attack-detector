@@ -1,0 +1,1 @@
+This folder contains src code related to the Vision-Based Heart Attack Detection System.
